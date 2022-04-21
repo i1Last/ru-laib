@@ -15,12 +15,18 @@
 * Как перепрошиваться между разными версиями android
 * Какие бывают vendor'ы?
 
-***
+<details>
+
+<summary>Вопросы, которые могут возникнуть</summary>
+
+
+
+</details>
 
 
 
 {% hint style="success" %}
-### Какая инструкция мне нужна?
+### [Какая инструкция мне нужна?](kakaya-instrukciya-mne-nuzhna.md)
 {% endhint %}
 
 
