@@ -31,7 +31,7 @@
 
 
 
-### Варианты переходов:
+### Варианты установок:
 
 {% content-ref url="oss-greater-than-oss.md" %}
 [oss-greater-than-oss.md](oss-greater-than-oss.md)
