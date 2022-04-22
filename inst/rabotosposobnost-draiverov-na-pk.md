@@ -14,6 +14,8 @@ description: Расскажем как проверить работоспосо
 {% tab title="Скриншоты" %}
 ![](https://telegra.ph/file/06dc878c0c009e8c62862.jpg)
 
+### Скриншот для сравнения:
+
 ![Скриншот для сравнения](https://telegra.ph/file/f8ca9cfc297db622c05a2.jpg)
 {% endtab %}
 {% endtabs %}
