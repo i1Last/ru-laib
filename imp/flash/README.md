@@ -10,10 +10,7 @@
 
 ***
 
-* Пояснение про OSS
-* Навигация по TWRP
-* Как перепрошиваться между разными версиями android
-* Какие бывают vendor'ы?
+
 
 <details>
 
@@ -21,32 +18,44 @@
 
 
 
+* Пояснение про OSS
+
+<!---->
+
+* Навигация по TWRP
+
+<!---->
+
+* Как перепрошиваться между разными версиями android
+
+<!---->
+
+* Какие бывают vendor'ы?
+
 </details>
 
-
-
 {% hint style="success" %}
-### [Какая инструкция мне нужна?](kakaya-instrukciya-mne-nuzhna.md)
+### [Какая инструкция мне нужна?](wh-i-need.md)
 {% endhint %}
 
 
 
 ### Варианты установок:
 
-{% content-ref url="oss-greater-than-oss.md" %}
-[oss-greater-than-oss.md](oss-greater-than-oss.md)
+{% content-ref url="oss-oss.md" %}
+[oss-oss.md](oss-oss.md)
 {% endcontent-ref %}
 
-{% content-ref url="oss-greater-than-non-oss.md" %}
-[oss-greater-than-non-oss.md](oss-greater-than-non-oss.md)
+{% content-ref url="oss-non+oss.md" %}
+[oss-non+oss.md](oss-non+oss.md)
 {% endcontent-ref %}
 
-{% content-ref url="non-oss-greater-than-oss.md" %}
-[non-oss-greater-than-oss.md](non-oss-greater-than-oss.md)
+{% content-ref url="non+oss-oss.md" %}
+[non+oss-oss.md](non+oss-oss.md)
 {% endcontent-ref %}
 
-{% content-ref url="non-oss-greater-than-non-oss.md" %}
-[non-oss-greater-than-non-oss.md](non-oss-greater-than-non-oss.md)
+{% content-ref url="non+oss-non+oss.md" %}
+[non+oss-non+oss.md](non+oss-non+oss.md)
 {% endcontent-ref %}
 
 ***
