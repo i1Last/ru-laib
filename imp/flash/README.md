@@ -1,7 +1,7 @@
 # %% Перепрошив устройства
 
 {% hint style="danger" %}
-#### <mark style="color:red;">**Автор данной инструкции не несёт ответственности за ваши действия. Все ваши действия выполняются на ваш страх и риск.**</mark> <a href="#avtor-dannoi-instrukcii-ne-nesyot-otvetstvennosti-za-vashi-deistviya.-vse-vashi-deistviya-vypolnyayu" id="avtor-dannoi-instrukcii-ne-nesyot-otvetstvennosti-za-vashi-deistviya.-vse-vashi-deistviya-vypolnyayu"></a>
+<mark style="color:red;">**Автор данной инструкции не несёт ответственности за ваши действия. Все ваши действия выполняются на ваш страх и риск.**</mark>
 {% endhint %}
 
 {% hint style="warning" %}
@@ -9,8 +9,6 @@
 {% endhint %}
 
 ***
-
-
 
 <details>
 
@@ -24,10 +22,8 @@
 </details>
 
 {% hint style="success" %}
-### [Какая инструкция мне нужна?](wh-i-need.md)
+#### [Какая инструкция мне нужна?](wh-i-need.md)
 {% endhint %}
-
-
 
 ### Варианты установок:
 
