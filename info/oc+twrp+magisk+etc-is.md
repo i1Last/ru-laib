@@ -1,6 +1,6 @@
-# прочее
+# Что такое OC, TWRP, Magisk и прочее
 
-### Что такое OC, TWRP, Magisk и прочее 
+### &#x20;
 
 [Last](https://t.me/i1Last)\
 
