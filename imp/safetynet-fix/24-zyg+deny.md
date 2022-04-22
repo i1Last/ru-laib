@@ -2,25 +2,45 @@
 
 ### **1. Активируем Zygisk и DenyList**
 
+{% tabs %}
+{% tab title="Текст" %}
 1. Заходим в Настройки magisk
 2. Включаем «Zygisk»
 3. Включаем «Активировать DenyList»
+{% endtab %}
 
+{% tab title="Скриншоты" %}
 ![](https://telegra.ph/file/d4b4957a9002c3895d3fd.jpg)
 
-***
+
+{% endtab %}
+{% endtabs %}
+
+****
 
 ### **2. Настраиваем DenyList**
 
+{% tabs %}
+{% tab title="Текст" %}
 1. Заходим в «Настройка DenyList»
 2. Нажимаем на "три точки" справа сверху
 3. Активируем пункт «Системные приложения»
+{% endtab %}
 
+{% tab title="Скриншоты" %}
 ![](https://telegra.ph/file/70d843813a17fa0b3eac8.jpg)
 
-***
+
+{% endtab %}
+{% endtabs %}
+
+****
 
 ### **3. Галочки**
+
+{% tabs %}
+{% tab title="Текст" %}
+
 
 1. Находим «Google Pay»
 2. Включаем все галочки у «Google Pay»
@@ -31,10 +51,16 @@
 com.google.android.gms
 com.google.android.gms.unstable
 ```
+{% endtab %}
 
+{% tab title="Скриншоты" %}
 ![](https://telegra.ph/file/2d0795b2336757812eb57.jpg)
 
-***
+
+{% endtab %}
+{% endtabs %}
+
+****
 
 ### **4. Перезагружаем устройство**
 

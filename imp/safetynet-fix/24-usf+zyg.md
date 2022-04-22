@@ -2,10 +2,18 @@
 
 ### **1. Активируем Zygisk**
 
+{% tabs %}
+{% tab title="Текст" %}
 1. Переходим в настройки Magisk
 2. Активируем Zygisk
+{% endtab %}
 
-***
+{% tab title="Скриншоты" %}
+![](https://telegra.ph/file/f8117e7e6b0d295bf12e8.jpg)
+{% endtab %}
+{% endtabs %}
+
+****
 
 ### **2. Скачиваем и устанавливаем модуль «Universal SafetyNet Fix»**
 

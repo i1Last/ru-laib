@@ -12,35 +12,51 @@
 
 ***
 
-***
-
 ### **1. Активируем MagiskHide**
 
+{% tabs %}
+{% tab title="Текст" %}
 1. Заходим в Magisk
 2. Переходим в Настройки Magisk
 3. Активируем MagiskHide
+{% endtab %}
 
+{% tab title="Скриншоты" %}
 ![](https://telegra.ph/file/c2b4ba48b582c94ab05c8.jpg)
 
-***
+
+{% endtab %}
+{% endtabs %}
+
+****
 
 ### **2. Настраиваем MagiskHide**
 
+{% tabs %}
+{% tab title="Текст" %}
 1. Возвращаемся в главное меню
 2. Снизу смотрим и ищем иконку "щита" и переходим туда
 3. В этом меню, в самом верху, есть пункт «MagiskHide» - заходим в него
 4. Далее ставим галочки как на скриншоте ниже
 5. Необходимо поставить галочки над «Google Pay», «Сервисы Google Play» и банковском приложении
+{% endtab %}
 
+{% tab title="Скриншоты" %}
 ![](https://telegra.ph/file/30b19f88e5e2e4260039c.jpg)
 
-***
+
+{% endtab %}
+{% endtabs %}
+
+****
 
 ### **3. Скачиваем и устанавливаем модуль «Riru»**
 
 {% embed url="https://github.com/RikkaApps/Riru/releases" %}
 [Как установить модуль magisk?](../../inst/install-mg-module.md)
 {% endembed %}
+
+****
 
 ### **4. Скачиваем и устанавливаем модуль «Universal SafetyNet Fix»**
 
