@@ -32,3 +32,22 @@
 * [%% Пояснение - Vendor](info/vendor-is.md)
 * [Навигация в TWRP](info/nav-twrp.md)
 * [Перепрошив между разными android версиями](info/flash-android-x.md)
+
+***
+
+* [Как сделать hard reset](kak-sdelat-hard-reset.md)
+* [Как установить другое рекавери через TWRP](kak-ustanovit-drugoe-rekaveri-cherez-twrp.md)
+* [Перепрошивка через MiFlash](pereproshivka-cherez-miflash.md)
+* [Что делать, если нет автоустановщика конкретного рекавери?](chto-delat-esli-net-avtoustanovshika-konkretnogo-rekaveri.md)
+* [Как вернуть прозрачный центр управления](kak-vernut-prozrachnyi-centr-upravleniya.md)
+* [Как включить частичный скриншот](kak-vklyuchit-chastichnyi-skrinshot.md)
+* [Как отключить рекомендации в меню недавних](kak-otklyuchit-rekomendacii-v-menyu-nedavnikh.md)
+* [Как установить адаптивные 90гц на устройство](kak-ustanovit-adaptivnye-90gc-na-ustroistvo.md)
+* [Постоянные 120/90гц (ROOT)](postoyannye-120-90gc-root.md)
+* [Как установить суперобои](kak-ustanovit-superoboi.md)
+* [Как отключить бабл уведомления?](kak-otklyuchit-babl-uvedomleniya.md)
+* [Как установить живые Pixel обои](kak-ustanovit-zhivye-pixel-oboi.md)
+* [помощью DNS-сервера](pomoshyu-dns-servera.md)
+* [GCam для POCO X3 NFC/PRO](gcam-dlya-poco-x3-nfc-pro.md)
+* [ADB без ПК](adb-bez-pk.md)
+* [Как пользоваться ADB через ПК](kak-polzovatsya-adb-cherez-pk.md)
