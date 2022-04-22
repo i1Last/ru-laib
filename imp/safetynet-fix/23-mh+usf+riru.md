@@ -39,13 +39,13 @@
 ### **3. Скачиваем и устанавливаем модуль «Riru»**
 
 {% embed url="https://github.com/RikkaApps/Riru/releases" %}
-[Как установить модуль magisk?](../../inst/install-module-mg.md)
+[Как установить модуль magisk?](../../inst/install-mg-module.md)
 {% endembed %}
 
 ### **4. Скачиваем и устанавливаем модуль «Universal SafetyNet Fix»**
 
 {% embed url="https://github.com/kdrag0n/safetynet-fix/releases/tag/v2.1.3" %}
-[Как установить модуль magisk?](../../inst/install-module-mg.md)
+[Как установить модуль magisk?](../../inst/install-mg-module.md)
 {% endembed %}
 
 {% hint style="warning" %}

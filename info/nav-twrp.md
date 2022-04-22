@@ -1,55 +1,92 @@
 # Навигация в TWRP
 
-[Last](https://t.me/i1Last)July 29, 2021
+### Переключим язык на русский: <a href="#dlya-pereklyucheniya-yazyka-v-twrp-sleduet-sdelat-sleduyushee" id="dlya-pereklyucheniya-yazyka-v-twrp-sleduet-sdelat-sleduyushee"></a>
 
-### Навигатор по TWRP 
+{% tabs %}
+{% tab title="Текст" %}
 
-[Last](https://t.me/i1Last)\
-
-
-:: Чтиво «АЛИСА» --> Инструкции --> [Навигатор по TWRP](broken-reference) ::
-
-***
-
-#### Для переключения языка в TWRP следует сделать следующее: <a href="#dlya-pereklyucheniya-yazyka-v-twrp-sleduet-sdelat-sleduyushee" id="dlya-pereklyucheniya-yazyka-v-twrp-sleduet-sdelat-sleduyushee"></a>
 
 1. В главном меню нажать «Settings»
 2. Далее “глобус справа сверху”
 3. Далее выбрать “Русский Язык” из списка предложенных
 4. Далее нажать «Set Language»
+{% endtab %}
+
+{% tab title="Скриншоты" %}
+![](https://telegra.ph/file/dbfabda66f993f97d00f2.jpg)
+{% endtab %}
+{% endtabs %}
 
 
 
-***
+### Главное меню: <a href="#obzor-twrp" id="obzor-twrp"></a>
 
-#### Обзор TWRP: <a href="#obzor-twrp" id="obzor-twrp"></a>
+{% tabs %}
+{% tab title="Текст" %}
+Только скриншот
+{% endtab %}
+
+{% tab title="Скриншоты" %}
+![](https://telegra.ph/file/54f568803f08b40d1bd50.jpg)
+{% endtab %}
+{% endtabs %}
 
 
 
-***
+### Раздел: Установить <a href="#razdel-ustanovit" id="razdel-ustanovit"></a>
 
-#### Раздел: Установить <a href="#razdel-ustanovit" id="razdel-ustanovit"></a>
-
+{% tabs %}
+{% tab title="Текст" %}
 * Здесь можно прошивать прошивки, recovery, magisk, дешифраторы и прочее.
-* Как прошить новое рекавери?
+* %% Как прошить новое рекавери?
+{% endtab %}
+
+{% tab title="Скриншоты" %}
+![](https://telegra.ph/file/a638966dc4ef2c28379ef.jpg)
+{% endtab %}
+{% endtabs %}
 
 
 
-**Кнопка: Выбрать накопитель**
+### **Кнопка: Выбрать накопитель**
 
-* Тут можно выбрать накопитель (microSD, внутренняя память устройства, OTG)
+{% tabs %}
+{% tab title="Текст" %}
+Тут можно выбрать накопитель (microSD, внутренняя память устройства, OTG)
+{% endtab %}
+
+{% tab title="Скриншоты" %}
+![](https://telegra.ph/file/f59b705d4088795523e2a.jpg)
+{% endtab %}
+{% endtabs %}
 
 
 
-**Кнопка: Установка IMG**
+### **Кнопка: Установка IMG**
 
-* Нужна для установки другого или обновления текущего рекавери. Инструкция
+{% tabs %}
+{% tab title="Текст" %}
+Нужна для установки другого или обновления текущего рекавери. Инструкция
+{% endtab %}
+
+{% tab title="Скриншоты" %}
+Отсутствуют
+{% endtab %}
+{% endtabs %}
 
 ***
 
-#### Раздел: Очистка <a href="#razdel-ochistka" id="razdel-ochistka"></a>
+### Раздел: Очистка <a href="#razdel-ochistka" id="razdel-ochistka"></a>
 
-* В этом разделе делается очистка устройства перед или/и после перепрошивки
+{% tabs %}
+{% tab title="Текст" %}
+В этом разделе делается очистка устройства перед или/и после перепрошивки
+{% endtab %}
+
+{% tab title="Скриншоты" %}
+![](https://telegra.ph/file/6807d96c47cf866902eaa.jpg)
+{% endtab %}
+{% endtabs %}
 
 
 

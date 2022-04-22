@@ -22,7 +22,7 @@
 
 ## 📑 Инструкции <a href="#inst" id="inst"></a>
 
-* [Установка magisk модуля](inst/install-module-mg.md)
+* [Установка magisk модуля](inst/install-mg-module.md)
 
 ## Знания <a href="#info" id="info"></a>
 
