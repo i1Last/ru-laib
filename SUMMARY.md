@@ -65,3 +65,14 @@
 * [Системы разделов android](info/sistemy-razdelov-android.md)
 * [прочее](info/prochee-1.md)
 * [Что такое дешифратор (DFE)?](info/chto-takoe-deshifrator-dfe.md)
+
+## Репозиторий <a href="#repo" id="repo"></a>
+
+* [TWRP для POCO X3 NFC/PRO](repo/twrp-dlya-poco-x3-nfc-pro.md)
+* [Stock](repo/stock.md)
+* [Custom](repo/custom.md)
+* [Актуальные версии Firmware](repo/aktualnye-versii-firmware.md)
+* [скачать](repo/skachat.md)
+* [🟢 Драйвера для ПК](repo/draivera-dlya-pk.md)
+* [GApps](repo/gapps.md)
+* [о нём](repo/o-nyom.md)
