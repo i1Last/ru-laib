@@ -1,6 +1,6 @@
-# TWRP
+# Как удалить модуль magisk в TWRP
 
-### Как удалить модуль magisk в TWRP 
+### &#x20;
 
 [Last](https://t.me/i1Last)\
 

@@ -5,7 +5,7 @@
 ## 🔴 Самое важное <a href="#imp" id="imp"></a>
 
 * [Как научиться google'ить?](imp/google.md)
-* [%% От разблокировки, до установки](imp/unlock-to-flash.md)
+* [От разблокировки, до установки](imp/unlock-to-flash.md)
 * [Разблокировка загрузчика](imp/unlock-bootloader.md)
 * [Починка SafetyNet](imp/safetynet-fix/README.md)
   * [v23.0: MagiskHide](imp/safetynet-fix/23-mh.md)
@@ -13,7 +13,7 @@
   * [v24.0: USF + Zygisk](imp/safetynet-fix/24-usf+zyg.md)
   * [v24.0: Zygisk + DenyList](imp/safetynet-fix/24-zyg+deny.md)
   * [Очистка данных Google](imp/safetynet-fix/google-clear.md)
-* [%% Перепрошив устройства](imp/flash/README.md)
+* [Перепрошив устройства](imp/flash/README.md)
   * [Какая инструкция мне нужна?](imp/flash/wh-i-need.md)
   * [OSS --> OSS](imp/flash/oss-oss.md)
   * [OSS --> non-OSS](imp/flash/oss-non+oss.md)
@@ -40,7 +40,7 @@
 * [GCam для POCO X3 NFC/PRO](inst/gcam-for-x3+p.md)
 * [ADB без ПК](inst/adb-without-pc.md)
 * [Как пользоваться ADB через ПК](inst/use-adb-with-pc.md)
-* [TWRP](inst/how-del-mg+module-in-twrp.md)
+* [Как удалить модуль magisk в TWRP](inst/how-del-mg+module-in-twrp.md)
 * [Универсальный автоустановщик рекавери](inst/universal-autoinstall-recovery.md)
 * [Как устновить MIUI Launcher](inst/install-miui-launcher.md)
 * [Как установить MIUI Звонилку, Контакты, Сообщения](inst/install-miui-dialer.md)
@@ -65,6 +65,7 @@
 * [Системы разделов android](info/system-partitions-in-android.md)
 * [Что такое OC, TWRP, Magisk и прочее](info/oc+twrp+magisk+etc-is.md)
 * [Что такое дешифратор (DFE)?](info/dfe-is.md)
+* [Пояснение по поводу Firmware](info/firmware-is.md)
 
 ## Репозиторий <a href="#repo" id="repo"></a>
 
@@ -72,7 +73,7 @@
 * [Stock](repo/stock.md)
 * [Custom](repo/custom.md)
 * [Актуальные версии Firmware](repo/aktualnye-versii-firmware.md)
-* [скачать](repo/skachat.md)
+* [Magisk - скачать](repo/magisk-skachat.md)
 * [🟢 Драйвера для ПК](repo/draivera-dlya-pk.md)
 * [GApps](repo/gapps.md)
-* [о нём](repo/o-nyom.md)
+* [ADB и о нём](repo/adb-i-o-nyom.md)

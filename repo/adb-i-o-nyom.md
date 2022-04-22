@@ -1,8 +1,8 @@
-# о нём
+# ADB и о нём
 
 [Last](https://t.me/i1Last)July 12, 2021
 
-### ADB и о нём 
+### &#x20;
 
 [Last](https://t.me/i1Last)\
 
