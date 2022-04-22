@@ -24,9 +24,9 @@
 
 * [Установка magisk модуля](inst/install-mg-module.md)
 * [Использование автоустановщика recovery](inst/ispolzovanie-avtoustanovshika-recovery.md)
-* [%% Работоспособность драйверов на ПК](inst/rabotosposobnost-draiverov-na-pk.md)
-* [Как сделать hard reset](inst/hard-reset.md)
-* [Как установить другое рекавери через TWRP](inst/install-other-recovery.md)
+* [Работоспособность драйверов на ПК](inst/rabotosposobnost-draiverov-na-pk.md)
+* [Выполнение hard reset](inst/hard-reset.md)
+* [Установка recovery через TWRP](inst/install-other-recovery.md)
 * [Перепрошивка через MiFlash](inst/flash-miflash.md)
 * [Как вернуть прозрачный центр управления](inst/blur-in-qs.md)
 * [Как включить частичный скриншот](inst/partial-screenshot.md)

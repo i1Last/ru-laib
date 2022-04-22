@@ -2,13 +2,13 @@
 description: Расскажем как проверить работоспособность драйверов на вашем ПК
 ---
 
-# %% Работоспособность драйверов на ПК
+# Работоспособность драйверов на ПК
 
 {% tabs %}
 {% tab title="Текст" %}
 1. Нажимаем правой кнопкой мыши по иконке «Пуск»
 2. Выбираем «Диспетчер устройств»
-3. Сравниваем, как на втором скриншоте в правой колонке
+3. Сравниваем, как на втором скриншоте в правой колонке «Скриншоты»
 {% endtab %}
 
 {% tab title="Скриншоты" %}
@@ -17,13 +17,9 @@ description: Расскажем как проверить работоспосо
 ### Скриншот для сравнения:
 
 ![Скриншот для сравнения](https://telegra.ph/file/f8ca9cfc297db622c05a2.jpg)
+
+{% hint style="info" %}
+#### Необязательно, что бы название устройства было именно “Android ADB Interface”. Главное, что бы смартфон отображался в «Android Device». <a href="#neobyazatelno-chto-by-nazvanie-ustroistva-bylo-imenno-android-adb-interface-.-glavnoe-chto-by-smartf" id="neobyazatelno-chto-by-nazvanie-ustroistva-bylo-imenno-android-adb-interface-.-glavnoe-chto-by-smartf"></a>
+{% endhint %}
 {% endtab %}
 {% endtabs %}
-
-
-
-
-
-***
-
-#### ‼️ Необязательно, что бы название устройства было именно “Android ADB Interface”. Главное, что бы смартфон отображался в «Android Device». <a href="#neobyazatelno-chto-by-nazvanie-ustroistva-bylo-imenno-android-adb-interface-.-glavnoe-chto-by-smartf" id="neobyazatelno-chto-by-nazvanie-ustroistva-bylo-imenno-android-adb-interface-.-glavnoe-chto-by-smartf"></a>
