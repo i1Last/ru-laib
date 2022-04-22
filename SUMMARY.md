@@ -23,7 +23,7 @@
 ## 📑 Инструкции <a href="#inst" id="inst"></a>
 
 * [Установка magisk модуля](inst/install-mg-module.md)
-* [%% Использование автоустановщика recovery](inst/ispolzovanie-avtoustanovshika-recovery.md)
+* [Использование автоустановщика recovery](inst/ispolzovanie-avtoustanovshika-recovery.md)
 * [%% Работоспособность драйверов на ПК](inst/rabotosposobnost-draiverov-na-pk.md)
 * [Как сделать hard reset](inst/hard-reset.md)
 * [Как установить другое рекавери через TWRP](inst/install-other-recovery.md)
