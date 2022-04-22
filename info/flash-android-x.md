@@ -12,7 +12,7 @@
 
 {% tabs %}
 {% tab title="Текст" %}
-Если же на устройстве меняется версия загрузчика \[ARB1 -> ARB2], то откат сделать невозможно, если нет инструкций по откату. (ARB - Anti Roll Back или, по простому, система антиотката)
+Если же на устройстве меняется версия загрузчика \[ARB1 -> ARB2], то откат сделать невозможно, если нет инструкций по откату. (ARB - Anti Roll Back или, по простому, система антиотката). [Подробнее](https://www.xda-developers.com/xiaomi-anti-rollback-protection-brick-phone/)
 {% endtab %}
 
 {% tab title="Скриншоты" %}
@@ -24,11 +24,10 @@
 
 ``
 
-*
-* [Подробнее тут](https://www.xda-developers.com/xiaomi-anti-rollback-protection-brick-phone/)
-
 ***
 
-**Инструкция по перепрошивке:**
+### **Инструкция по перепрошивке:**
 
-> \> перейти
+{% content-ref url="../imp/flash/" %}
+[flash](../imp/flash/)
+{% endcontent-ref %}

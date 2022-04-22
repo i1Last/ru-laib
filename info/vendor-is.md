@@ -1,21 +1,12 @@
-# Пояснение - Vendor
+# %% Пояснение - Vendor
 
-August 01, 2021
+### **Что такое vendor?**
 
-### Какие бывают Vendor'ы? 
+Vendor - это файлы, которые содержат оптимизацию для вашего устройства. В устройствах Xiaomi такой вендор именуется как MR/MQ (M-miui ; R - android R). MIUI вендор самый обычный. Он нормальный, но не лучший из возможных, поэтому появились OSS vendor и CAF vendor. OSS как правило более оптимизированный, а CAF еще более оптимизрован. OSS создается с нуля обычным человеком, как и CAF, однако для создания CAF вендора используются наработки оптимизации чипмейкера (Qualcomm SnapDragon), поэтому они оптимизированее, чем OSS и MIUI, но прошивок на таком вендоре мало.
 
-[Last](https://t.me/i1Last)\
+****
 
-
-:: [Чтиво «АЛИСА»](https://telegra.ph/Poleznoe-chtivo-b-iH-A-07-12) --> [Знания](https://telegra.ph/Poleznye-poznaniya-07-12) --> [Какие бывают Vendor'ы?](broken-reference) ::
-
-***
-
-#### Вендоры бывают разные. Стоковые и кастомные. Сейчас мы расмотрим самые популярные. <a href="#vendory-byvayut-raznye.-stokovye-i-kastomnye.-seichas-my-rasmotrim-samye-populyarnye." id="vendory-byvayut-raznye.-stokovye-i-kastomnye.-seichas-my-rasmotrim-samye-populyarnye."></a>
-
-***
-
-**MQ; MR | vendor (так же известный как non-OSS):**
+### **MQ; MR | vendor (так же известный как non-OSS):**
 
 1. MQ - MIUI Q
 2. MR - MIUI R
@@ -25,7 +16,7 @@ August 01, 2021
 
 ***
 
-**OSS | vendor:**
+### **OSS | vendor:**
 
 * OSS vendor - это кастомный вендор от мейнтейнеров.
 * Мейнтейнер - это тот, кто делает кастомные прошивки.
@@ -33,7 +24,7 @@ August 01, 2021
 
 ***
 
-**CAF | vendor (прошивается как OSS):**
+### **CAF | vendor (прошивается как OSS):**
 
 * CAF vendor - кастомный вендор, которые создали мейнтейнеры с применением последних изменений от Qualcomm
 * CAF - улучшенный OSS

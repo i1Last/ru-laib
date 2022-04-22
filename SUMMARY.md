@@ -23,10 +23,12 @@
 ## 📑 Инструкции <a href="#inst" id="inst"></a>
 
 * [Установка magisk модуля](inst/install-mg-module.md)
+* [%% Использование автоустановщика recovery](inst/ispolzovanie-avtoustanovshika-recovery.md)
+* [%% Работоспособность драйверов на ПК](inst/rabotosposobnost-draiverov-na-pk.md)
 
 ## Знания <a href="#info" id="info"></a>
 
 * [Пояснение - OSS](info/oss-is.md)
+* [%% Пояснение - Vendor](info/vendor-is.md)
 * [Навигация в TWRP](info/nav-twrp.md)
 * [Перепрошив между разными android версиями](info/flash-android-x.md)
-* [Пояснение - Vendor](info/vendor-is.md)
