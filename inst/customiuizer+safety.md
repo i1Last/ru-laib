@@ -1,4 +1,10 @@
-# Как установить и запустить customiuizer с работающим SafetyNet
+---
+description: >-
+  Расскажем, как установить и запустить customiuizer вместе с работющем
+  SafetyNet.
+---
+
+# Customiuizer вместе с SafetyNet
 
 ### &#x20;
 

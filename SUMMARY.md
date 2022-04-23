@@ -43,8 +43,7 @@
 * [Удаление magisk модуля в TWRP](inst/how-del-mg+module-in-twrp.md)
 * [Универсальный автоустановщик рекавери](inst/universal-autoinstall-recovery.md)
 * [Как устновить MIUI Launcher](inst/install-miui-launcher.md)
-* [Как установить MIUI Звонилку, Контакты, Сообщения](inst/install-miui-dialer.md)
-* [Как установить и запустить customiuizer с работающим SafetyNet](inst/customiuizer+safety.md)
+* [Customiuizer вместе с SafetyNet](inst/customiuizer+safety.md)
 * [Swift Backup (Требует ROOT)](inst/swift-backup.md)
 * [Создание модулей Magisk](inst/create-mg+module.md)
 
