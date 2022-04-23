@@ -1,39 +1,39 @@
-# Как удалить модуль magisk в TWRP
+---
+description: >-
+  Расскажем, как удалить magisk модуль в twrp. если у вас, например, произошел
+  бутлуп из-за какого-то из них.
+---
 
-### &#x20;
+# Удаление magisk модуля в TWRP
 
-[Last](https://t.me/i1Last)\
+### Шифрование внутреннего хранилища <a href="#esli-vashe-vnutrennee-khranilishe-zashifrovano-to-etot-metod-vam-ne-podoidyot." id="esli-vashe-vnutrennee-khranilishe-zashifrovano-to-etot-metod-vam-ne-podoidyot."></a>
 
+{% hint style="warning" %}
+Этот способ будет работать только в том случае, если ваше внутренне хранилище расшифровано. Как это проверить?
 
-:: Чтиво «АЛИСА» --> Инструкции --> [Как удалить модуль magisk в TWRP](broken-reference) ::
-
-***
-
-#### ‼️ Если ваше внутреннее хранилище зашифровано, то этот метод вам не подойдёт. <a href="#esli-vashe-vnutrennee-khranilishe-zashifrovano-to-etot-metod-vam-ne-podoidyot." id="esli-vashe-vnutrennee-khranilishe-zashifrovano-to-etot-metod-vam-ne-podoidyot."></a>
-
-***
-
-**Как узнать, зашифровано ли внутреннее хранилище?**
-
-1. Перезагружаемся в TWRP
-2. Раздел: Установка
-3. Кнопка: Выбрать накопитель
-
-• Если размер «Внутренняя память» равен „0Б”, то к сожалению, ваше внутреннее хранилище **зашифровано**.
-
-• Также: если у вас вместо папок какие-то непонятные символы, то это означает, что ваше «Внутреннее хранилище» **зашифровано**
+1. Если вы не можете открыть раздел «Внутреннее хранилище» в разделе «Установка» внутри twrp, то ваше внутреннее хранилище <mark style="color:red;">зашифровано</mark>
+2. Если в разделе «Установка» внутри twrp в разделе «Внутреннее хранилище» вместо нормальных названий папок вы видите непонятный набор символов, то ваше внутреннее хранилище <mark style="color:red;">зашифровано</mark>
+3. Если в разделе «Установка» внутри twrp у вас в разделе «Внутреннее хранилище» нормальное отображение папок, то ваше внутреннее хранилище <mark style="color:green;">расшифровано</mark>
+{% endhint %}
 
 ***
 
-#### А теперь, узнаем как удалять модули magisk в TWRP с расшифрованной внутренней памятью: <a href="#a-teper-uznaem-kak-udalyat-moduli-magisk-v-twrp-s-rasshifrovannoi-vnutrennei-pamyatyu" id="a-teper-uznaem-kak-udalyat-moduli-magisk-v-twrp-s-rasshifrovannoi-vnutrennei-pamyatyu"></a>
+### Удаление модуля
+
+{% tabs %}
+{% tab title="Текст" %}
+
 
 1. Перезагружаемся в TWRP
 2. Раздел «Дополнительно»
 3. Кнопка «Проводник»
+4. Далее идем по пути: `0/data/adb/modules`
+   * Здесь расположены установленные модули magisk. Удаляем модуль, который вызвал проблему и можем перезагружаться в систему.
+{% endtab %}
 
-* Далее идем по пути:
+{% tab title="Скриншоты" %}
+![](https://telegra.ph/file/9327a71c66dffbc2383f0.jpg)
 
-> 0/data/adb/modules
-
-* Здесь расположены установленные модули magisk. Удаляем модуль, который вызвал проблему и можем перезагружаться в OC.
-
+![](https://telegra.ph/file/3a45d9d8d35797eff4945.jpg)
+{% endtab %}
+{% endtabs %}
