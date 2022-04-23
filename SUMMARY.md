@@ -50,10 +50,10 @@
 ## Знания <a href="#info" id="info"></a>
 
 * [Пояснение - OSS](info/oss-is.md)
-* [%% Пояснение - Vendor](info/vendor-is.md)
+* [Пояснение - Vendor](info/vendor-is.md)
 * [Навигация в TWRP](info/nav-twrp.md)
-* [Перепрошив между разными android версиями](info/flash-android-x.md)
-* [Индексные имена устройств](info/index-name-devices.md)
+* [Переход с разных версиях android](info/flash-android-x.md)
+* [%%% Индексные имена устройств](info/index-name-devices.md)
 * [Как работают очистки на a10+](info/wipe-on-a10+above.md)
 * [Кодовые имена устройств](info/code-name-devices.md)
 * [Кодовые названия Android](info/code-name-android.md)

@@ -1,10 +1,12 @@
+---
+description: Расскажем, что такое OSS vendor.
+---
+
 # Пояснение - OSS
 
 ### Кратко и просто: <a href="#vkratce" id="vkratce"></a>
 
 > OSS (Open Source Software) - набор файлов, который содержит более улучшенную оптимизацию по сравнению с MIUI вендором.
-
-
 
 ### Более подробно: <a href="#bolee-podrobno" id="bolee-podrobno"></a>
 
