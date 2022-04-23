@@ -42,9 +42,15 @@ description: Расскажем, что такое Swift Backup, для чего
 {% endtab %}
 
 {% tab title="Скриншоты" %}
-![](../.gitbook/assets/image.png)
+![](https://telegra.ph/file/4ceaf24d6af8652becab0.jpg)
 {% endtab %}
 {% endtabs %}
+
+
+
+### Навигация: Бэкап
+
+
 
 
 
