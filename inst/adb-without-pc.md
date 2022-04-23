@@ -122,7 +122,6 @@ description: >-
 | Удаление-Заморозка программы | pm uninstall -k --user 0 \*package name\*     |   |
 | Восстановление программы     | pm install-existing --user 0 \*package name\* |   |
 
-***
-
-* \*package name\* можно узнать через [_**Apk Inspector**_](https://play.google.com/store/apps/details?id=bg.projectoria.appinspector)
-* Находим нужное приложение в «apk inspector» и копируем текст в строке «имя пакета» или «package name».
+{% hint style="info" %}
+<mark style="color:blue;">Полезное:</mark> \*package name\* можно узнать через «[Apk Inspector](https://play.google.com/store/apps/details?id=bg.projectoria.appinspector)»
+{% endhint %}
