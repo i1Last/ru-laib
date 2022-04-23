@@ -39,7 +39,7 @@
 * [Отключение рекламы \[DNS-сервер\]](inst/off-ad-with-dns.md)
 * [%%% GCam для POCO X3 NFC/PRO](inst/gcam-for-x3+p.md)
 * [ADB без ПК \[LADB\]](inst/adb-without-pc.md)
-* [Как пользоваться ADB через ПК](inst/use-adb-with-pc.md)
+* [%tg link% ADB через ПК](inst/use-adb-with-pc.md)
 * [Как удалить модуль magisk в TWRP](inst/how-del-mg+module-in-twrp.md)
 * [Универсальный автоустановщик рекавери](inst/universal-autoinstall-recovery.md)
 * [Как устновить MIUI Launcher](inst/install-miui-launcher.md)
