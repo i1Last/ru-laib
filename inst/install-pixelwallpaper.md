@@ -1,30 +1,20 @@
-# Как установить живые Pixel обои
+# %tg link% Установка живых Pixel обоев
 
-July 13, 2021
+### Начало
 
-### Как установить живые Pixel обои 
+{% tabs %}
+{% tab title="Текст" %}
+1. Скачиваем [Обои и Стиль](https://play.google.com/store/apps/details?id=com.google.android.apps.wallpaper)
+2. Скачиваем живые обои: [Первые](https://t.me/b\_iH\_A/38) | [Вторые](https://t.me/b\_iH\_A/39)
+3. Заходим в «Обои и Стиль» и ищем плитку «Живые Обои» (в самом низу)
+4. Выбираем понравившиеся
 
-[Last](https://t.me/i1Last)\
+{% hint style="info" %}
+<mark style="color:blue;">Важно:</mark> Многие виды живых обоев дублируются. Рекомендуется выбирать первые из коллекции одного вида
+{% endhint %}
+{% endtab %}
 
-
-:: [Чтиво «АЛИСА»](https://telegra.ph/Poleznoe-chtivo-b-iH-A-07-12) --> [Инструкции](https://telegra.ph/Lajtovye-instrukcii-07-12) --> [Как установить живые Pixel обои](broken-reference) ::
-
-***
-
-**Как установить живые обои из pixel? Сейчас узнаем!**
-
-* Первое, что нам нужно, это скачать [_**Google обои из Play Market**_](https://play.google.com/store/apps/details?id=com.google.android.apps.wallpaper)
-* Второе - это скачать сами живые обои:
-
-> [Первые обои](https://t.me/b\_iH\_A/38)
-
-> [Вторые обои](https://t.me/b\_iH\_A/39)
-
-* Далее всё просто:
-
-1. Заходим в ранее скаченные приложение _**«**_[_**Google обои**_](https://play.google.com/store/apps/details?id=com.google.android.apps.wallpaper)_**»**_ и ищем табло «Живые обои». Обычно назодится в самом низу.
-2. Выбераем понравишиеся обои, однако, учтите следующий момент: из перечисленных вариантов, нужно выбирать лишь первый из одинаковых, что бы обои **корректно** работали. Пример на скрине ниже:
-
-
-
-* Что бы выбрать корректную карточку, ориентируйтесь на **названия.**
+{% tab title="Скриншоты" %}
+![](https://telegra.ph/file/ef450a6362a68dbe6acce.jpg)
+{% endtab %}
+{% endtabs %}
