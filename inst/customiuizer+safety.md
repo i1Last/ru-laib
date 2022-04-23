@@ -6,14 +6,7 @@ description: >-
 
 # Customiuizer вместе с SafetyNet
 
-### &#x20;
-
-[Last](https://t.me/i1Last)\
-
-
-:: Чтиво «АЛИСА» --> Инструкции --> [Как установить и запустить customiuizer с работающим SafetyNet](broken-reference) ::
-
-***
+### **Установка customiuizer**
 
 **1. Устанавливаем модули “Riru” и “Riru - LSPosed”**
 

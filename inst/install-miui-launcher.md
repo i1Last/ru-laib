@@ -46,11 +46,13 @@ description: Расскажем, как с помощью magisk и magisk мо�
 1. Переходим в [этот канал](https://t.me/miuisystemupdatesru)
 2. В поиске вводим `#launcher`
 3. Скачиваем \*.apk в найденном сообщении
-4. Скачиваем [SAI](https://play.app.goo.gl/?link=https://play.google.com/store/apps/details?id=com.aefyr.sai\&ddl=1\&pcampaignid=web\_ddl\_1) и заходим в него
-5. Переходим в «Settings» -> «Installer» -> «Rooted (requires root)»
-6. Возвращаемся в раздел «Installer»
-7. Устанавливаем скачанный \*.apk
-8. <mark style="color:green;">Готово</mark> 👍
+4. Устанавливаем скачанный \*.apk
+   * У вас xiaomi eu или возникает ошибка? <mark style="color:purple;">Тогда:</mark>
+     1. Скачиваем [SAI](https://play.app.goo.gl/?link=https://play.google.com/store/apps/details?id=com.aefyr.sai\&ddl=1\&pcampaignid=web\_ddl\_1) и заходим в него
+     2. Переходим в «Settings» -> «Installer» -> «Rooted (requires root)»
+     3. Возвращаемся в раздел «Installer»
+     4. Устанавливаем скачанный \*.apk
+5. <mark style="color:green;">Готово</mark> 👍
 
 
 
