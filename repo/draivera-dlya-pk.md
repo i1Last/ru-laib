@@ -1,29 +1,48 @@
+---
+description: >-
+  Предоставим свевозможные драйвера для вашего устройства. Подходит только для
+  устройств с процессором от Qualomm SnapDragon.
+---
+
 # Драйвера для ПК
 
-### 🟢 Драйвера для ПК
+{% hint style="warning" %}
+После установки драйверов необходимо перезагрузить ПК.
+{% endhint %}
 
-[Last](https://t.me/i1Last)July 12, 2021
-
-### 🟢 Драйвера для ПК 
-
-[Last](https://t.me/i1Last)\
+{% hint style="warning" %}
+Размещенные здесь драйвера подходят только для устройств с процессором от Qualcomm SnapDragon.
+{% endhint %}
 
 
-:: [Чтиво «АЛИСА»](https://telegra.ph/Poleznoe-chtivo-b-iH-A-07-12) --> [Файлы](https://telegra.ph/Fajly-07-31) --> [Драйвера для ПК](broken-reference) ::
 
-***
+### Как проверить работоспособность?
 
-#### • _**После установки драйверов необходимо перезагрузить ПК!**_ <a href="#posle-ustanovki-draiverov-neobkhodimo-perezagruzit-pk-and-33" id="posle-ustanovki-draiverov-neobkhodimo-perezagruzit-pk-and-33"></a>
+{% content-ref url="../inst/drivers-on-pc.md" %}
+[drivers-on-pc.md](../inst/drivers-on-pc.md)
+{% endcontent-ref %}
 
-#### • Предоставленные драйвера подходят только для Qualcomm SnapDragon <a href="#predostavlennye-draivera-podkhodyat-tolko-dlya-qualcomm-snapdragon" id="predostavlennye-draivera-podkhodyat-tolko-dlya-qualcomm-snapdragon"></a>
 
-#### • Если не заработали первые драйвера, ставьте следующие по списку <a href="#esli-ne-zarabotali-pervye-draivera-stavte-sleduyushie-po-spisku" id="esli-ne-zarabotali-pervye-draivera-stavte-sleduyushie-po-spisku"></a>
 
-***
+### Стабильный вариант
 
-* Как проверить работоспособность драйверов на ПК?
+{% hint style="info" %}
+Скорее всего именно эти драйвера будут у вас работать исправно
+{% endhint %}
 
-***
+{% file src="../.gitbook/assets/ADB driver v1.17 lite.zip" %}
+
+
+
+### Другие варианты <a href="#posle-ustanovki-draiverov-neobkhodimo-perezagruzit-pk-and-33" id="posle-ustanovki-draiverov-neobkhodimo-perezagruzit-pk-and-33"></a>
+
+{% hint style="info" %}
+Если [Стабильный вариант](draivera-dlya-pk.md#stabilnyi-variant) у вас не заработал, то стоит попробовать установить следующие драйвера и повторить попытку. Устанавливайте и проверяйте работоспособность драйверов по очереди сверху вниз
+{% endhint %}
+
+
+
+
 
 > [ADB Driver v1.17 lite](https://t.me/b\_iH\_A/56)
 
