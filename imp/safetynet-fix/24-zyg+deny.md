@@ -1,5 +1,5 @@
 ---
-description: Расскажем о самом минимальном способе починки SafetyNetю
+description: Расскажем о самом минимальном способе починки SafetyNet.
 ---
 
 # v24.x: Zygisk + DenyList

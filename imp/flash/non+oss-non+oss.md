@@ -42,7 +42,7 @@
 ### **5. Прошиваем** [**magisk**](../../repo/custom/magisk-skachat.md) **- по желанию**
 
 {% hint style="info" %}
-Если не прошить magisk при перепрошивке на MIUI Stock, то ваше кастомное рекавери слетит.
+Если не прошить magisk при перепрошивке на MIUI Stock, то ваше кастомное recovery слетит.
 {% endhint %}
 
 * [Раздел: Установить](../../info/nav-twrp.md#razdel-ustanovit)
@@ -69,7 +69,7 @@
 
 * [Раздел: Очистка](../../info/nav-twrp.md#razdel-ochistka)
 * Кнопка: Форматировать DATA
-* Вводим “yes” (без ковычек)
+* Вводим `yes`
 
 ***
 

@@ -5,7 +5,7 @@ description: Расскажем как починить SafetyNet, если он
 # Починка SafetyNet
 
 {% hint style="warning" %}
-**Если после правильного выполнения инструкции и прохождения SafetyNet у вас продолжает не работать Google Pay, то скорее всего дело в вашей банковской карте или в чём то другом.**
+**Если после правильного выполнения инструкции и прохождения SafetyNet у вас продолжает не работать Google Pay, то скорее всего дело в вашей банковской карте или в чём-то другом.**
 {% endhint %}
 
 ***
@@ -31,7 +31,7 @@ description: Расскажем как починить SafetyNet, если он
 ### Инструкции, которые подходят для Magisk v24.x и Magisk Canary 23ххх: <a href="#instrukcii-kotorye-podkhodyat-dlya-magisk-24.0-i-magisk-canary-23khkhkh" id="instrukcii-kotorye-podkhodyat-dlya-magisk-24.0-i-magisk-canary-23khkhkh"></a>
 
 {% hint style="info" %}
-Выберете один из двух способов, который вам больше нравится. Лично я рекомендую USF + Zygisk
+Выберете один из двух способов, который вам больше нравится. Я рекомендую USF + Zygisk
 {% endhint %}
 
 {% tabs %}
