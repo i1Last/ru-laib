@@ -37,6 +37,7 @@
 * [Отключение бабл уведомлений](inst/off-bubbles.md)
 * [Установка живых Pixel обоев](inst/install-pixelwallpaper.md)
 * [Отключение рекламы \[DNS-сервер\]](inst/off-ad-with-dns.md)
+* [GCam для POCO X3 NFC / Pro](inst/gcam-dlya-poco-x3-nfc-pro.md)
 * [%%% GCam для POCO X3 NFC/PRO](inst/gcam-for-x3+p.md)
 * [ADB без ПК \[LADB\]](inst/adb-without-pc.md)
 * [ADB через ПК](inst/use-adb-with-pc.md)

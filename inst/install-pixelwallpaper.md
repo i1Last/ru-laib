@@ -5,7 +5,7 @@
 {% tabs %}
 {% tab title="Текст" %}
 1. Скачиваем [Обои и Стиль](https://play.google.com/store/apps/details?id=com.google.android.apps.wallpaper)
-2. Скачиваем живые обои
+2. Скачиваем [живые обои](https://github.com/i1Last/ru-laib/raw/main/.gitbook/assets/Pixel\_Wallpapers\_2020.apk)
 3. Заходим в «Обои и Стиль» и ищем плитку «Живые Обои» (в самом низу)
 4. Выбираем понравившиеся
 
