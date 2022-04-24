@@ -206,23 +206,23 @@
 {% endtab %}
 
 {% tab title="POCO" %}
-| **Модель устройства** | **Кодовое имя** | **Индексное имя** |
-|:---------------------:|:---------------:|:-----------------:|
-|        POCO C30       |    angelicain   |                   |
-|        POCO C31       |    angelicain   |                   |
-|        POCO F1        |    beryllium    |                   |
-|      POCO F2 Pro      |       lmi       |                   |
-|       POCO F3 GT      |       ares      |                   |
-|        POCO F3        |      alioth     |                   |
-|      POCO M2 Pro      |       gram      |                   |
-|     POCO M3 Pro 5G    |    camellian    |                   |
-|        POCO M3        |      citrus     |                   |
-|     POCO M4 Pro 5G    |      evergr     |                   |
-|      POCO M4 Pro      |      fleur      |                   |
-|       POCO X3 GT      |      chopin     |                   |
-|      POCO X3 NFC      |      surya      |                   |
-|      POCO X3 Pro      |       vayu      |                   |
-|     POCO X4 Pro 5G    |       veux      |                   |
-|        Poco M2        |      shiva      |                   |
+|     **Модель устройства**    | **Кодовое имя** | **Индексное имя** |
+|:----------------------------:|:---------------:|:-----------------:|
+|           POCO C30           |    angelicain   |         CR        |
+|           POCO C31           |    angelicain   |         CR        |
+|            POCO F1           |    beryllium    |         EJ        |
+|          POCO F2 Pro         |       lmi       |         JK        |
+|          POCO F3 GT          |       ares      |         KJ        |
+|            POCO F3           |      alioth     |         KH        |
+|          POCO M2 Pro         |       gram      |         JP        |
+|        POCO M3 Pro 5G        |    camellian    |         KS        |
+|            POCO M3           |      citrus     |         JF        |
+|        POCO M4 Pro 5G        |    evergreen    |         GB        |
+|          POCO M4 Pro         |      fleur      |         KE        |
+|          POCO X3 GT          |      chopin     |         KP        |
+|          POCO X3 NFC         |      surya      |         JG        |
+|          POCO X3 Pro         |       vayu      |         JU        |
+|        POCO X4 Pro 5G        |       veux      |         KC        |
+|            Poco M2           |      shiva      |         JR        |
 {% endtab %}
 {% endtabs %}
