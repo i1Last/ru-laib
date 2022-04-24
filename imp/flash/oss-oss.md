@@ -20,7 +20,7 @@
 
 ***
 
-### **3. Прошиваем** [**Firmware**](../../repo/aktualnye-versii-firmware.md) — \[[подробнее](../../info/firmware-is.md)]
+### **3. Прошиваем** [**Firmware**](../../repo/custom.md#firmware) — \[[подробнее](../../info/firmware-is.md)]
 
 {% hint style="info" %}
 Обычно нужная версия firmware пишется в описании прошивки.

@@ -69,9 +69,7 @@
 ## Репозиторий <a href="#repo" id="repo"></a>
 
 * [TWRP для POCO X3 NFC/PRO](repo/twrp-dlya-poco-x3-nfc-pro.md)
-* [Актуальные версии: MIUI — Stock](repo/stock.md)
-* [Актуальные версии: AOSP/MIUI — Custom](repo/custom.md)
-* [Актуальные версии Firmware](repo/aktualnye-versii-firmware.md)
+* [Прошивки, firmware, ядра и прочее](repo/custom.md)
 * [Magisk - скачать](repo/magisk-skachat.md)
 * [Драйвера для ПК](repo/draivera-dlya-pk.md)
 * [GApps](repo/gapps.md)

@@ -42,6 +42,6 @@ description: Расскажем, что такое Firmware, для чего о�
 1. Установить самую последнюю глобальную firmware и забыть о ней на ближайшие полгода
 2. Установить рекомендованную сообществом вашего устройства firmware и забыть о ней на ближайшие полгода
 
-{% content-ref url="../repo/aktualnye-versii-firmware.md" %}
-[aktualnye-versii-firmware.md](../repo/aktualnye-versii-firmware.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

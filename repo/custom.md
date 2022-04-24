@@ -1,4 +1,50 @@
-# Актуальные версии: AOSP/MIUI — Custom
+---
+description: >-
+  Здесь вы сможете найти любую версию MIUI Stock или канал обновлений прошивок в
+  telegram под ваше устройство для скачивания.
+---
+
+# Прошивки, firmware, ядра и прочее
+
+### MIUI Stock
+
+> [Подробнее про MIUI](../info/code-miui.md)
+
+{% embed url="https://mirom.ezbox.idv.tw/en/phone" %}
+
+
+
+### Firmware
+
+> [Подробнее про Firmware](../info/firmware-is.md)
+
+{% tabs %}
+{% tab title="Все смартфоны" %}
+
+
+{% embed url="https://xiaomifirmwareupdater.com/firmware" %}
+{% endtab %}
+
+{% tab title="POCO X3 NFC / Pro" %}
+{% embed url="https://xiaomifirmwareupdater.com/archive/firmware/vayu" %}
+POCO X3 Pro
+{% endembed %}
+
+{% embed url="https://xiaomifirmwareupdater.com/archive/firmware/surya" %}
+POCO X3 NFC
+{% endembed %}
+{% endtab %}
+{% endtabs %}
+
+
+
+
+
+### Каналы обновлений
+
+{% hint style="info" %}
+В таких каналах публикуются все новые версии прошивок, ядер и некоторых других компонентов под ваше устройство.
+{% endhint %}
 
 <details>
 
@@ -20,68 +66,48 @@
 
 </details>
 
+<details>
 
+<summary>Redmi / Redmi Note | Updates</summary>
 
-#### Mi | Updates: <a href="#mi-or-updates" id="mi-or-updates"></a>
+* [Redmi Note 5A | Y1](https://t.me/rn5a\_update)
+* [Redmi 5+](https://t.me/vince\_news)
+* [Redmi Note 6 Pro](https://t.me/tulipromindo)
+* [Redmi Note 7](https://t.me/redminote7update)
+* [Redmi note 7 | 7S](https://t.me/RedmiNote7Updates)
+* [Redmi 7A](https://t.me/Redmi7AUpdates)
+* [Redmi Note 7 Pro](https://t.me/redmi\_note\_7\_pro\_updates)
+* [Redmi Note 8 | 8T](https://t.me/rn8updates)
+* [Redmi 8A](https://t.me/Redmi8AUpdates)
+* [Redmi Note 8 Pro](https://t.me/RedmiNote8ProUpdates)
+* [Redmi 9 | Redmi Note 9](https://t.me/HelioG85\_Updates)
+* [Redmi 9A](https://t.me/Redmi9AUpdate)
+* [Redmi 9T](https://t.me/Redmi9TUpdates)
+* [Redmi Note 9 Pro](https://t.me/RN9ProUpdate)
+* [Redmi Note 9 Pro 5G | Mi 10i 5G | Mi 10T Lite](https://t.me/Mi10i5GOfficialUpdates)
+* [Redmi Note 10](https://t.me/Note10\_Updates)
+* [Redmi Note 10 Pro](https://t.me/RedmiNote10ProChannel)
 
->
+</details>
 
-***
+<details>
 
-#### Redmi / Redmi Note | Updates: <a href="#redmi-redmi-note-or-updates" id="redmi-redmi-note-or-updates"></a>
+<summary>POCO | Updates</summary>
 
-> [Redmi Note 5A | Y1](https://t.me/rn5a\_update)
+* [POCO F1](https://t.me/PocoPhoneGlobalUpdates)
+* [POCO F2 Pro](https://t.me/PocoF2ProGlobalReleases) | [индийский](https://t.me/PocoF2ProCH)
+* [POCO M3](https://t.me/PocoM3GlobalUpdates)
+* [POCO X3 NFC](https://t.me/PocoX3OfficialUpdates) | [индийский](https://t.me/PocoX3\_Official) | [доп](https://t.me/PocoX3IDUpdate) | [русский](https://t.me/PocoRussiaX3Updates)
+* [POCO X3 Pro](https://t.me/PocoX3ProUpdates) | [индийский](https://t.me/PocoX3ProIndonesiaUpdate) | [русский](https://t.me/PocoRussiaX3PROUpdates)
+* ****[POCO F3 / Mi 11X](https://t.me/pocoF3GlobalUpdates)
+* [POCO F3 GT](https://t.me/PocoF3GTUpdates)
 
-> [Redmi 5+](https://t.me/vince\_news)
-
-> [Redmi Note 6 Pro](https://t.me/tulipromindo)
-
-> [Redmi Note 7](https://t.me/redminote7update)
-
-> [Redmi note 7 | 7S](https://t.me/RedmiNote7Updates)
-
-> [Redmi 7A](https://t.me/Redmi7AUpdates)
-
-> [Redmi Note 7 Pro](https://t.me/redmi\_note\_7\_pro\_updates)
-
-> [Redmi Note 8 | 8T](https://t.me/rn8updates)
-
-> [Redmi 8A](https://t.me/Redmi8AUpdates)
-
-> [Redmi Note 8 Pro](https://t.me/RedmiNote8ProUpdates)
-
-> [Redmi 9 | Redmi Note 9](https://t.me/HelioG85\_Updates)
-
-> [Redmi 9A](https://t.me/Redmi9AUpdate)
-
-> [Redmi 9T](https://t.me/Redmi9TUpdates)
-
-> [Redmi Note 9 Pro](https://t.me/RN9ProUpdate)
-
-> [Redmi Note 9 Pro 5G | Mi 10i 5G | Mi 10T Lite](https://t.me/Mi10i5GOfficialUpdates)
-
-> [Redmi Note 10](https://t.me/Note10\_Updates)
-
-> [Redmi Note 10 Pro](https://t.me/RedmiNote10ProChannel)
+</details>
 
 ***
 
-#### POCO | Updates: <a href="#poco-or-updates" id="poco-or-updates"></a>
+### **Нет модели твоего устройства?**
 
-> [POCO F1](https://t.me/PocoPhoneGlobalUpdates)
+\-- Отправьте предложение по добавлению сюда:
 
-> [POCO F2 Pro](https://t.me/PocoF2ProGlobalReleases) | [индийский](https://t.me/PocoF2ProCH)
-
-> [POCO M3](https://t.me/PocoM3GlobalUpdates)
-
-> [POCO X3 NFC](https://t.me/PocoX3OfficialUpdates) | [индийский](https://t.me/PocoX3\_Official) - **рекомендуется** | [доп](https://t.me/PocoX3IDUpdate) | [русский](https://t.me/PocoRussiaX3Updates)
-
-> [POCO X3 Pro](https://t.me/PocoX3ProUpdates) | [индийский](https://t.me/PocoX3ProIndonesiaUpdate) | [русский](https://t.me/PocoRussiaX3PROUpdates) - **рекомендуется**
-
-> [POCO F3 / Mi 11X](https://t.me/pocoF3GlobalUpdates)
-
-> [POCO F3 GT](https://t.me/PocoF3GTUpdates)
-
-***
-
-**Нет модели твоего устройства? Пиши мне в ЛС -** [**@i1Last**](https://t.me/i1Last)
+{% embed url="https://github.com/i1Last/main-laib/issues" %}
