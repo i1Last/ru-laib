@@ -62,7 +62,7 @@
 * [OTA, Полная прошивка и прочее](info/ota+fullrom+etc.md)
 * [Система в r/w - пояснение](info/sistem-r+w-is.md)
 * [Системы разделов android](info/system-partitions-in-android.md)
-* [Что такое OC, TWRP, Magisk и прочее](info/oc+twrp+magisk+etc-is.md)
+* [Пояснение - OC, TWRP, Magisk и прочее](info/oc+twrp+magisk+etc-is.md)
 * [Что такое дешифратор (DFE)?](info/dfe-is.md)
 * [Пояснение по поводу Firmware](info/firmware-is.md)
 
