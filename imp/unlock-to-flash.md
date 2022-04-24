@@ -35,8 +35,8 @@ __
 
 * Ставьте сначала первые. Если не заработают - ставим вторые и т.д.
 
-{% content-ref url="../repo/draivera-dlya-pk.md" %}
-[draivera-dlya-pk.md](../repo/draivera-dlya-pk.md)
+{% content-ref url="../repo/drivers-pc.md" %}
+[drivers-pc.md](../repo/drivers-pc.md)
 {% endcontent-ref %}
 
 
@@ -55,8 +55,8 @@ __
 
 * Устанавливаем автоустановщик для вашего смартфона. Если нет для вашего устройства - берем из [4pda](https://4pda.to)
 
-{% content-ref url="../repo/twrp-dlya-poco-x3-nfc-pro.md" %}
-[twrp-dlya-poco-x3-nfc-pro.md](../repo/twrp-dlya-poco-x3-nfc-pro.md)
+{% content-ref url="../repo/twrp-surya+vayu.md" %}
+[twrp-surya+vayu.md](../repo/twrp-surya+vayu.md)
 {% endcontent-ref %}
 
 

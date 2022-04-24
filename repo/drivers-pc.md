@@ -37,7 +37,7 @@ description: >-
 ### Другие варианты <a href="#posle-ustanovki-draiverov-neobkhodimo-perezagruzit-pk-and-33" id="posle-ustanovki-draiverov-neobkhodimo-perezagruzit-pk-and-33"></a>
 
 {% hint style="info" %}
-Если [Стабильный вариант](draivera-dlya-pk.md#stabilnyi-variant) у вас не заработал, то стоит попробовать установить следующие драйвера и повторить попытку. Устанавливайте и проверяйте работоспособность драйверов по очереди сверху вниз
+Если [Стабильный вариант](drivers-pc.md#stabilnyi-variant) у вас не заработал, то стоит попробовать установить следующие драйвера и повторить попытку. Устанавливайте и проверяйте работоспособность драйверов по очереди сверху вниз
 {% endhint %}
 
 1. [QDLoader HS-USB Driver](https://github.com/i1Last/ru-laib/raw/main/.gitbook/assets/QDLoader\_HS-USB\_Driver.zip) | 32/64-bit

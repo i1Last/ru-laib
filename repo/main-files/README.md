@@ -8,7 +8,7 @@ description: >-
 
 ### MIUI Stock
 
-> [Подробнее про MIUI](../../info/code-miui.md)
+> [Подробнее про MIUI](../../info/name-miui-is.md)
 
 {% embed url="https://mirom.ezbox.idv.tw/en/phone" %}
 
@@ -129,8 +129,8 @@ POCO X3 NFC
 
 ### Magisk
 
-{% content-ref url="magisk-skachat.md" %}
-[magisk-skachat.md](magisk-skachat.md)
+{% content-ref url="magisk.md" %}
+[magisk.md](magisk.md)
 {% endcontent-ref %}
 
 
