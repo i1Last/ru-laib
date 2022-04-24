@@ -1,3 +1,7 @@
+---
+description: Расскажем как починить SafetyNet, если он не работает.
+---
+
 # Починка SafetyNet
 
 {% hint style="warning" %}
@@ -24,7 +28,7 @@
 
 ***
 
-### Инструкции, которые подходят для Magisk v24.0 и Magisk Canary 23ххх: <a href="#instrukcii-kotorye-podkhodyat-dlya-magisk-24.0-i-magisk-canary-23khkhkh" id="instrukcii-kotorye-podkhodyat-dlya-magisk-24.0-i-magisk-canary-23khkhkh"></a>
+### Инструкции, которые подходят для Magisk v24.x и Magisk Canary 23ххх: <a href="#instrukcii-kotorye-podkhodyat-dlya-magisk-24.0-i-magisk-canary-23khkhkh" id="instrukcii-kotorye-podkhodyat-dlya-magisk-24.0-i-magisk-canary-23khkhkh"></a>
 
 {% hint style="info" %}
 Выберете один из двух способов, который вам больше нравится. Лично я рекомендую USF + Zygisk

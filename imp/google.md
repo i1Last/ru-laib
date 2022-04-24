@@ -1,3 +1,7 @@
+---
+description: Расскажем как какать.
+---
+
 # Как научиться google'ить?
 
 {% hint style="danger" %}

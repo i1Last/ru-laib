@@ -1,3 +1,7 @@
+---
+description: Расскажем о самом нерациональном способе починить SafetyNet.
+---
+
 # v23.0: MH + USF + Riru
 
 ### Вы уже пробовали чистый MagiskHide? <a href="#vy-uzhe-probovali-chistyi-magiskhide" id="vy-uzhe-probovali-chistyi-magiskhide"></a>

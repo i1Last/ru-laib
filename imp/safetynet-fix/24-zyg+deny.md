@@ -1,4 +1,8 @@
-# v24.0: Zygisk + DenyList
+---
+description: Расскажем о самом минимальном способе починки SafetyNetю
+---
+
+# v24.x: Zygisk + DenyList
 
 ### **1. Активируем Zygisk и DenyList**
 
