@@ -70,7 +70,3 @@
   * [Magisk](repo/main-files/magisk.md)
 * [TWRP для POCO X3 NFC/PRO](repo/twrp-surya+vayu.md)
 * [Драйвера для ПК](repo/drivers-pc.md)
-
-***
-
-* [Page 1](page-1.md)
