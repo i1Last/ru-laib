@@ -10,15 +10,19 @@
 
 </details>
 
+{% hint style="info" %}
+Распакуйте архив \*.zip перед использованием.
+{% endhint %}
+
 ### POCO X3 Pro <a href="#poco-x3-pro" id="poco-x3-pro"></a>
 
 {% tabs %}
 {% tab title="*.img" %}
-
+{% file src="../.gitbook/assets/img-twrp-3.6.0_11-0-vayu.zip" %}
 {% endtab %}
 
 {% tab title="*.exe" %}
-
+{% file src="../.gitbook/assets/exe-twrp-3.6.0_11-0-vayu.zip" %}
 {% endtab %}
 {% endtabs %}
 
@@ -28,10 +32,10 @@
 
 {% tabs %}
 {% tab title="*.img" %}
-{% file src="broken-reference" %}
+{% file src="../.gitbook/assets/img-twrp-3.6.0_10-1-surya.zip" %}
 {% endtab %}
 
 {% tab title="*.exe" %}
-{% file src="../.gitbook/assets/twrp-3.6.0_10-1-surya-ai.exe" %}
+{% file src="../.gitbook/assets/exe-twrp-3.6.0_10-1-surya.zip" %}
 {% endtab %}
 {% endtabs %}
