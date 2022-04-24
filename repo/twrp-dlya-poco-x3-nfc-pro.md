@@ -14,11 +14,11 @@
 
 {% tabs %}
 {% tab title="*.img" %}
-{% file src="../.gitbook/assets/twrp-3.6.0_10-1-surya-ai (1).exe" %}
+
 {% endtab %}
 
 {% tab title="*.exe" %}
-{% file src="broken-reference" %}
+
 {% endtab %}
 {% endtabs %}
 
@@ -32,6 +32,6 @@
 {% endtab %}
 
 {% tab title="*.exe" %}
-{% file src="broken-reference" %}
+{% file src="../.gitbook/assets/twrp-3.6.0_10-1-surya-ai.exe" %}
 {% endtab %}
 {% endtabs %}
