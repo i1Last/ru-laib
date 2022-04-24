@@ -28,71 +28,71 @@
 |       Mi 10T / 10T Pro       |      apollo     |         JD        |
 |          Mi 10T Lite         |     gauguin     |         JS        |
 |             Mi 10            |       umi       |         JB        |
-|           Mi 10i 5G          |     gauguin     |                   |
-|       Mi 11 Lite 5G NE       |       lisa      |                   |
-|         Mi 11 Lite 5G        |       oir       |                   |
-|          Mi 11 Lite          |     courbet     |                   |
-|       Mi 11 Pro / Ultra      |       star      |                   |
-|          Mi 11T Pro          |       vili      |                   |
-|            Mi 11T            |      agate      |                   |
-|          Mi 11X Pro          |      haydn      |                   |
-|            Mi 11X            |      alioth     |                   |
-|             Mi 11            |        us       |                   |
-| Mi 11i / Hypercharge (India) |     pissarro    |                   |
-|            Mi 11i            |      haydn      |                   |
-|           Mi 12 Pro          |       zeus      |                   |
-|            Mi 12X            |      psyche     |                   |
-|             Mi 12            |      cupid      |                   |
-|             Mi 2S            |      aries      |                   |
-|          Mi 3 / Mi 4         |      cancro     |                   |
-|             Mi 4i            |     ferrari     |                   |
-|             Mi 5X            |     tiffany     |                   |
-|             Mi 5             |      gemini     |                   |
-|          Mi 5s Plus          |     natrium     |                   |
-|             Mi 5s            |    capricorn    |                   |
-|             Mi 6X            |      wayne      |                   |
-|             Mi 6             |      sagit      |                   |
-|      Mi 8 Explorer (EE)      |       ursa      |                   |
-|           Mi 8 Lite          |     platina     |                   |
-|         Mi 8 Pro (UD)        |     equuleus    |                   |
-|            Mi 8 SE           |      sirius     |                   |
-|             Mi 8             |      dipper     |                   |
-|          Mi 9 Pro 5G         |       crux      |                   |
-|            Mi 9 SE           |       grus      |                   |
-|             Mi 9             |     cepheus     |                   |
-|             Mi A1            |      tissot     |                   |
-|          Mi A2 Lite          |      daisy      |                   |
-|             Mi A2            |     jasmine     |                   |
-|             Mi A3            |  laurel_sprout  |                   |
-|      Mi CC9 / Mi 9 Lite      |      pyxis      |                   |
-|     Mi CC9 Meitu Edition     |       vela      |                   |
-|            Mi CC9e           |      laurus     |                   |
-|            Mi CIVI           |       mona      |                   |
-|          Mi Civi 1S          |      zijin      |                   |
-|           Mi MIX 2S          |     polaris     |                   |
-|           Mi MIX 2           |      chiron     |                   |
-|          Mi MIX 3 5G         |    andromeda    |                   |
-|           Mi MIX 3           |     perseus     |                   |
-|           Mi MIX 4           |       odin      |                   |
-|          Mi MIX FOLD         |      cetus      |                   |
-|            Mi MIX            |     lithium     |                   |
-|           Mi Max 2           |       oxy       |                   |
-|           Mi Max 3           |      nitro      |                   |
-|         Mi Max Prime         |      helium     |                   |
-|            Mi Max            |      hydro      |                   |
-|    Mi Note 10 / Mi CC9 Pro   |      tucana     |                   |
-|        Mi Note 10 Lite       |       toco      |                   |
-|           Mi Note 2          |     scorpio     |                   |
-|           Mi Note 3          |      jason      |                   |
-|            Mi Note           |      virgo      |                   |
-|            Mi Play           |      lotus      |                   |
-|            MiPad 1           |      mocha      |                   |
-|            MiPad 2           |      latte      |                   |
-|            MiPad 3           |      cappu      |                   |
-|         MiPad 4/Plus         |      clover     |                   |
-|        MiPad 5 Pro 5G        |    /phoneuma    |                   |
-|          MiPad 5 Pro         |      elish      |                   |
-|            MiPad 5           |       nabu      |                   |
+|           Mi 10i 5G          |     gauguin     |         JS        |
+|       Mi 11 Lite 5G NE       |       lisa      |         KO        |
+|         Mi 11 Lite 5G        |       oir       |         KI        |
+|          Mi 11 Lite          |     courbet     |         KQ        |
+|       Mi 11 Pro / Ultra      |       star      |         KA        |
+|          Mi 11T Pro          |       vili      |         KD        |
+|            Mi 11T            |      agate      |         KW        |
+|          Mi 11X Pro          |      haydn      |         KK        |
+|            Mi 11X            |      alioth     |         KH        |
+|             Mi 11            |        us       |         KB        |
+| Mi 11i / Hypercharge (India) |     pissarro    |         KT        |
+|            Mi 11i            |      haydn      |         KT        |
+|           Mi 12 Pro          |       zeus      |         LB        |
+|            Mi 12X            |      psyche     |         LD        |
+|             Mi 12            |      cupid      |         LC        |
+|             Mi 2S            |      aries      |         XA        |
+|          Mi 3 / Mi 4         |      cancro     |         XD        |
+|             Mi 4i            |     ferrari     |         XI        |
+|             Mi 5X            |     tiffany     |         DB        |
+|             Mi 5             |      gemini     |         AA        |
+|          Mi 5s Plus          |     natrium     |         BG        |
+|             Mi 5s            |    capricorn    |         AG        |
+|             Mi 6X            |      wayne      |         DC        |
+|             Mi 6             |      sagit      |         CA        |
+|      Mi 8 Explorer (EE)      |       ursa      |         EH        |
+|           Mi 8 Lite          |     platina     |         DT        |
+|         Mi 8 Pro (UD)        |     equuleus    |         EC        |
+|            Mi 8 SE           |      sirius     |         EB        |
+|             Mi 8             |      dipper     |         EA        |
+|          Mi 9 Pro 5G         |       crux      |         FX        |
+|            Mi 9 SE           |       grus      |         FB        |
+|             Mi 9             |     cepheus     |         FA        |
+|             Mi A1            |      tissot     |         DH        |
+|          Mi A2 Lite          |      daisy      |         DL        |
+|             Mi A2            |     jasmine     |         DI        |
+|             Mi A3            |  laurel_sprout  |         FQ        |
+|      Mi CC9 / Mi 9 Lite      |      pyxis      |         FC        |
+|     Mi CC9 Meitu Edition     |       vela      |         FE        |
+|            Mi CC9e           |      laurus     |         FM        |
+|            Mi CIVI           |       mona      |         KV        |
+|          Mi Civi 1S          |      zijin      |         LP        |
+|           Mi MIX 2S          |     polaris     |         DG        |
+|           Mi MIX 2           |      chiron     |         DE        |
+|          Mi MIX 3 5G         |    andromeda    |         EM        |
+|           Mi MIX 3           |     perseus     |         EE        |
+|           Mi MIX 4           |       odin      |         KM        |
+|          Mi MIX FOLD         |      cetus      |         JT        |
+|            Mi MIX            |     lithium     |         AH        |
+|           Mi Max 2           |      oxygen     |         DD        |
+|           Mi Max 3           |     nitrogen    |         ED        |
+|         Mi Max Prime         |      helium     |         BD        |
+|            Mi Max            |     hydrogen    |         BC        |
+|    Mi Note 10 / Mi CC9 Pro   |      tucana     |         FD        |
+|        Mi Note 10 Lite       |       toco      |         FN        |
+|           Mi Note 2          |     scorpio     |         AD        |
+|           Mi Note 3          |      jason      |         CH        |
+|            Mi Note           |      virgo      |         XE        |
+|            Mi Play           |      lotus      |         FI        |
+|            MiPad 1           |      mocha      |         XF        |
+|            MiPad 2           |      latte      |         AC        |
+|            MiPad 3           |      cappu      |         CI        |
+|         MiPad 4/Plus         |      clover     |         DJ        |
+|        MiPad 5 Pro 5G        |      enuma      |         KZ        |
+|          MiPad 5 Pro         |      elish      |         KY        |
+|            MiPad 5           |       nabu      |         KX        |
 {% endtab %}
 
 {% tab title="Redmi" %}
