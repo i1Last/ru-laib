@@ -76,4 +76,3 @@
 * [🟢 Драйвера для ПК](repo/draivera-dlya-pk.md)
 * [GApps](repo/gapps.md)
 * [ADB и о нём](repo/adb-i-o-nyom.md)
-* [test](repo/test)
