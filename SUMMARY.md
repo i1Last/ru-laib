@@ -64,7 +64,7 @@
 * [Системы разделов android](info/system-partitions-in-android.md)
 * [Пояснение - OC, TWRP, Magisk и прочее](info/oc+twrp+magisk+etc-is.md)
 * [Что такое дешифратор (DFE)?](info/dfe-is.md)
-* [Пояснение по поводу Firmware](info/firmware-is.md)
+* [Пояснение - Firmware](info/firmware-is.md)
 
 ## Репозиторий <a href="#repo" id="repo"></a>
 
