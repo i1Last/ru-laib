@@ -70,7 +70,7 @@
 
 * [TWRP для POCO X3 NFC/PRO](repo/twrp-dlya-poco-x3-nfc-pro.md)
 * [Прошивки, firmware, ядра и прочее](repo/custom.md)
-* [Magisk - скачать](repo/magisk-skachat.md)
+* [Magisk](repo/magisk-skachat.md)
 * [Драйвера для ПК](repo/draivera-dlya-pk.md)
 * [GApps](repo/gapps.md)
 * [ADB и о нём](repo/adb-i-o-nyom.md)
