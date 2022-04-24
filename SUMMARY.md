@@ -52,7 +52,7 @@
 * [Пояснение - Vendor](info/vendor-is.md)
 * [Навигация в TWRP](info/nav-twrp.md)
 * [Переход с разных версиях android](info/flash-android-x.md)
-* [%%% Кодовые и индексные имена устройств](info/code-name-devices.md)
+* [Кодовые и индексные имена устройств](info/code-name-devices.md)
 * [Пояснение - названия MIUI](info/code-miui.md)
 * [Очистки на android 10+](info/wipe-on-a10+above.md)
 * [Кодовые названия Android](info/code-name-android.md)
