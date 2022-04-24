@@ -43,7 +43,7 @@
 * [Удаление magisk модуля в TWRP](inst/how-del-mg+module-in-twrp.md)
 * [Универсальный автоустановщик рекавери](inst/universal-autoinstall-recovery.md)
 * [Как устновить MIUI Launcher](inst/install-miui-launcher.md)
-* [%%DELETE%% Customiuizer  вместе с SafetyNet](inst/customiuizer+safety.md)
+* [%%DELETE%% Customiuizer вместе с SafetyNet](inst/customiuizer+safety.md)
 * [Swift Backup \[ROOT\]](inst/swift-backup.md)
 * [Создание модулей Magisk](inst/create-mg+module.md)
 
@@ -69,10 +69,10 @@
 ## Репозиторий <a href="#repo" id="repo"></a>
 
 * [TWRP для POCO X3 NFC/PRO](repo/twrp-dlya-poco-x3-nfc-pro.md)
-* [Stock](repo/stock.md)
+* [Актуальные версии: MIUI — Stock](repo/stock.md)
 * [Custom](repo/custom.md)
 * [Актуальные версии Firmware](repo/aktualnye-versii-firmware.md)
 * [Magisk - скачать](repo/magisk-skachat.md)
-* [🟢 Драйвера для ПК](repo/draivera-dlya-pk.md)
+* [Драйвера для ПК](repo/draivera-dlya-pk.md)
 * [GApps](repo/gapps.md)
 * [ADB и о нём](repo/adb-i-o-nyom.md)

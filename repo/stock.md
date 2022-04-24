@@ -1,15 +1,4 @@
-# Stock
-
-[Last](https://t.me/i1Last)July 12, 2021
-
-### Актуальные версии: MIUI — Stock 
-
-[Last](https://t.me/i1Last)\
-
-
-:: Чтиво «АЛИСА» --> Файлы --> [Актуальные версии: MIUI — Stock](broken-reference) ::
-
-***
+# Актуальные версии: MIUI — Stock
 
 **Как выбрать свою прошивку?**
 
