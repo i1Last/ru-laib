@@ -20,14 +20,14 @@
 {% tab title="Mi" %}
 |     **Модель устройства**    | **Кодовое имя** | **Индексное имя** |
 |:----------------------------:|:---------------:|:-----------------:|
-|    Mi 10 Lite Zoom (Youth)   |    vangogh+JV   |                   |
-|          Mi 10 Lite          |     monet+JI    |                   |
-|           Mi 10 Pro          |      cmi+JA     |                   |
-|          Mi 10 Ultra         |      cas+JJ     |                   |
-|            Mi 10S            |     thyme+GA    |                   |
-|       Mi 10T / 10T Pro       |    apollo+JD    |                   |
-|          Mi 10T Lite         |    gauguin+JS   |                   |
-|             Mi 10            |      umi+JB     |                   |
+|    Mi 10 Lite Zoom (Youth)   |     vangogh     |         JV        |
+|          Mi 10 Lite          |      monet      |         JI        |
+|           Mi 10 Pro          |       cmi       |         JA        |
+|          Mi 10 Ultra         |       cas       |         JJ        |
+|            Mi 10S            |      thyme      |         GA        |
+|       Mi 10T / 10T Pro       |      apollo     |         JD        |
+|          Mi 10T Lite         |     gauguin     |         JS        |
+|             Mi 10            |       umi       |         JB        |
 |           Mi 10i 5G          |     gauguin     |                   |
 |       Mi 11 Lite 5G NE       |       lisa      |                   |
 |         Mi 11 Lite 5G        |       oir       |                   |
