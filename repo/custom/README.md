@@ -1,14 +1,14 @@
 ---
 description: >-
-  Здесь вы сможете найти любую версию MIUI Stock или канал обновлений прошивок в
-  telegram под ваше устройство для скачивания.
+  Здесь вы сможете найти любую версию MIUI Stock, канал обновлений прошивок в
+  telegram под ваше устройство, GApps и прочее для скачивания.
 ---
 
-# Прошивки, firmware, ядра и прочее
+# Прошивки, firmware, GApps и прочее
 
 ### MIUI Stock
 
-> [Подробнее про MIUI](../info/code-miui.md)
+> [Подробнее про MIUI](../../info/code-miui.md)
 
 {% embed url="https://mirom.ezbox.idv.tw/en/phone" %}
 
@@ -16,7 +16,7 @@ description: >-
 
 ### Firmware
 
-> [Подробнее про Firmware](../info/firmware-is.md)
+> [Подробнее про Firmware](../../info/firmware-is.md)
 
 {% tabs %}
 {% tab title="Все смартфоны" %}
@@ -105,6 +105,35 @@ POCO X3 NFC
 </details>
 
 ***
+
+### GApps
+
+{% hint style="info" %}
+[FAQ по GApps](https://4pda.to/forum/index.php?showtopic=524180)
+{% endhint %}
+
+<details>
+
+<summary>Доступные GApps</summary>
+
+* [NikGapps](https://nikgapps.com) - **рекомендуется**
+* [FlameGapps](https://flamegapps.github.io) - **рекомедуется**
+* ****[WebGapps](https://t.me/WeebGAppsChannel)
+* [OpenGapps](https://opengapps.org)
+* [MindTheGapps](https://androidfilehost.com/?w=files\&flid=322935)
+* [BitGApps](https://bitgapps.github.io)
+
+</details>
+
+***
+
+### Magisk
+
+{% content-ref url="magisk-skachat.md" %}
+[magisk-skachat.md](magisk-skachat.md)
+{% endcontent-ref %}
+
+
 
 ### **Нет модели твоего устройства?**
 

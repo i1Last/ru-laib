@@ -69,8 +69,8 @@
 ## Репозиторий <a href="#repo" id="repo"></a>
 
 * [TWRP для POCO X3 NFC/PRO](repo/twrp-dlya-poco-x3-nfc-pro.md)
-* [Прошивки, firmware, ядра и прочее](repo/custom.md)
-* [Magisk](repo/magisk-skachat.md)
+* [Прошивки, firmware, GApps и прочее](repo/custom/README.md)
+  * [Magisk](repo/custom/magisk-skachat.md)
+  * [GApps](repo/custom/gapps.md)
 * [Драйвера для ПК](repo/draivera-dlya-pk.md)
-* [GApps](repo/gapps.md)
 * [ADB и о нём](repo/adb-i-o-nyom.md)
