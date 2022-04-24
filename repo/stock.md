@@ -1,8 +1,8 @@
 # Актуальные версии: MIUI — Stock
 
-**Как выбрать свою прошивку?**
-
-> Обозначения архивов MIUI
+{% content-ref url="../info/code-miui.md" %}
+[code-miui.md](../info/code-miui.md)
+{% endcontent-ref %}
 
 ***
 
@@ -14,4 +14,4 @@
 
 ***
 
-> [Все остальные смартфоны Xiaomi](https://mirom.ezbox.idv.tw/en/phone/)
+{% embed url="https://mirom.ezbox.idv.tw/en/phone" %}

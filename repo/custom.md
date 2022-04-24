@@ -1,43 +1,30 @@
-# Custom
+# Актуальные версии: AOSP/MIUI — Custom
 
-[Last](https://t.me/i1Last)July 13, 2021
+<details>
 
-### Актуальные версии: AOSP/MIUI — Custom 
+<summary>Mi | Updates</summary>
 
-[Last](https://t.me/i1Last)\
+* [Mi A3](https://t.me/mi\_a3updates)
+* [Mi 8](https://t.me/mi8arsenal)
+* [Mi 8 Lite](https://t.me/mi8liteupdate)
+* [Mi 8 Pro | 8 Explorer](https://t.me/mi8proupdates)
+* [Mi 9](https://t.me/mi9globalupdates)
+* [Mi CC9 | Mi 9 Lite](https://t.me/PyxisUpdates)
+* [Mi Note 10](https://t.me/MiNote10Updates)
+* [Mi Note 10 Lite](https://t.me/note10liteupdates)
+* [Mi 10i | 10T Lite](https://t.me/Gauguin\_Updates)
+* [Mi 10i 5G | Mi 10T Lite | Redmi Note 9 Pro 5G](https://t.me/Mi10i5GOfficialUpdates)
+* [Mi 10T | Mi 10T Pro](https://t.me/Mi10TSeriesUpdates)
+* [Mi 11 Lite](https://t.me/XiaomiMi11LiteUpdates)
+* [Mi 11X | POCO F3](https://t.me/pocoF3GlobalUpdates)
+
+</details>
 
 
-:: Чтиво «АЛИСА» --> Файлы --> [Актуальные версии: AOSP/MIUI — Custom](broken-reference) ::
-
-***
 
 #### Mi | Updates: <a href="#mi-or-updates" id="mi-or-updates"></a>
 
-> [Mi A3](https://t.me/mi\_a3updates)
-
-> [Mi 8](https://t.me/mi8arsenal)
-
-> [Mi 8 Lite](https://t.me/mi8liteupdate)
-
-> [Mi 8 Pro | 8 Explorer](https://t.me/mi8proupdates)
-
-> [Mi 9](https://t.me/mi9globalupdates)
-
-> [Mi CC9 | Mi 9 Lite](https://t.me/PyxisUpdates)
-
-> [Mi Note 10](https://t.me/MiNote10Updates)
-
-> [Mi Note 10 Lite](https://t.me/note10liteupdates)
-
-> [Mi 10i | 10T Lite](https://t.me/Gauguin\_Updates)
-
-> [Mi 10i 5G | Mi 10T Lite | Redmi Note 9 Pro 5G](https://t.me/Mi10i5GOfficialUpdates)
-
-> [Mi 10T | Mi 10T Pro](https://t.me/Mi10TSeriesUpdates)
-
-> [Mi 11 Lite](https://t.me/XiaomiMi11LiteUpdates)
-
-> [Mi 11X | POCO F3](https://t.me/pocoF3GlobalUpdates)
+>
 
 ***
 

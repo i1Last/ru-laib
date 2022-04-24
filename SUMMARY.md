@@ -70,7 +70,7 @@
 
 * [TWRP для POCO X3 NFC/PRO](repo/twrp-dlya-poco-x3-nfc-pro.md)
 * [Актуальные версии: MIUI — Stock](repo/stock.md)
-* [Custom](repo/custom.md)
+* [Актуальные версии: AOSP/MIUI — Custom](repo/custom.md)
 * [Актуальные версии Firmware](repo/aktualnye-versii-firmware.md)
 * [Magisk - скачать](repo/magisk-skachat.md)
 * [Драйвера для ПК](repo/draivera-dlya-pk.md)
