@@ -13,7 +13,7 @@ description: Ра
 
 ***
 
-* Создатели: [@tonyst2](https://t.me/tonyst2) ; [@waizor](https://t.me/waizor)
+*
 
 ***
 
@@ -92,3 +92,11 @@ description: Ра
 > \> [ссылкой](https://youtu.be/HAa\_iX3Amp4)
 
 * Эта видео-адаптация не имеет отношения в Чтиво. Авторство пренадлежит [POCO Russia](https://youtube.com/c/POCORussia)
+
+<details>
+
+<summary>Авторство</summary>
+
+Данная страница была создана при&#x20;
+
+</details>
