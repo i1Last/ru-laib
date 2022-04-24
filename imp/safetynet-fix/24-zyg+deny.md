@@ -82,4 +82,4 @@ com.google.android.gms.unstable
 
 ***
 
-### **6. **<mark style="color:green;">**Готово**</mark>** 👍**
+### **6. **<mark style="color:green;">**Готово, SafetyNet должен проходить**</mark>** 👍**
