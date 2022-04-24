@@ -30,7 +30,7 @@ description: >-
 Скорее всего именно эти драйвера будут у вас работать исправно
 {% endhint %}
 
-{% file src="../.gitbook/assets/ADB driver v1.17 lite.zip" %}
+{% file src="../.gitbook/assets/ADB_driver_v1.17_lite.zip" %}
 
 
 
@@ -40,7 +40,7 @@ description: >-
 Если [Стабильный вариант](draivera-dlya-pk.md#stabilnyi-variant) у вас не заработал, то стоит попробовать установить следующие драйвера и повторить попытку. Устанавливайте и проверяйте работоспособность драйверов по очереди сверху вниз
 {% endhint %}
 
-
+1. QDLoader HS-USB Driver | 32/64-bit
 
 
 
