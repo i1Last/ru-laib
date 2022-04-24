@@ -43,8 +43,8 @@
 * [Удаление magisk модуля в TWRP](inst/how-del-mg+module-in-twrp.md)
 * [Универсальный автоустановщик рекавери](inst/universal-autoinstall-recovery.md)
 * [Как устновить MIUI Launcher](inst/install-miui-launcher.md)
-* [%%% Swift Backup \[ROOT\]](inst/swift-backup.md)
 * [Создание модулей Magisk](inst/create-mg+module.md)
+* [Полная прошивка](inst/full-rom.md)
 
 ## Знания <a href="#info" id="info"></a>
 
@@ -57,7 +57,6 @@
 * [Очистки на android 10+](info/wipe-on-a10+above.md)
 * [Кодовые названия Android](info/code-name-android.md)
 * [Корневые разделы в android](info/root-partitions-in-android.md)
-* [OTA, Полная прошивка и прочее](info/ota+fullrom+etc.md)
 * [Система в r/w - пояснение](info/sistem-r+w-is.md)
 * [Системы разделов android](info/system-partitions-in-android.md)
 * [Пояснение - OC, TWRP, Magisk и прочее](info/oc+twrp+magisk+etc-is.md)
