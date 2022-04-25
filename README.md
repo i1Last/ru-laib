@@ -14,6 +14,12 @@ description: Расскажем о главном.
 
 
 
+{% hint style="danger" %}
+<mark style="background-color:red;">**Что бы увидеть все страницы откройте левое меню (три полоски слева сверху)**</mark>
+{% endhint %}
+
+
+
 ### Вступайте к нам!
 
 {% tabs %}
