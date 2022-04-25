@@ -49,3 +49,16 @@ description: Расскажем о нашем проекте.
 > ЛВЖ - [@dibilin](https://t.me/dibilin)
 
 > Денис - [@tonyst2](https://t.me/tonyst2)
+
+
+
+### Исходный код
+
+<details>
+
+<summary>GitHub</summary>
+
+* Список изменений: [main](https://github.com/i1Last/main-laib/commits/main), [ru](https://github.com/i1Last/ru-laib/commits/main), [en](https://github.com/i1Last/en-laib/commits/main)
+* Главная страница на GitHub: [main](https://github.com/i1Last/main-laib), [ru](https://github.com/i1Last/ru-laib), [en](https://github.com/i1Last/en-laib)
+
+</details>
