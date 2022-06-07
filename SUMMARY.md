@@ -66,7 +66,7 @@
 
 ## 🗃 Репозиторий <a href="#repo" id="repo"></a>
 
-* [Прошивки, firmware, GApps и прочее](repo/main-files/README.md)
+* [Прошивки, firmware, GApps, Magisk и др.](repo/main-files/README.md)
   * [Magisk](repo/main-files/magisk.md)
 * [TWRP для POCO X3 NFC/PRO](repo/twrp-surya+vayu.md)
 * [Драйвера для ПК](repo/drivers-pc.md)

@@ -18,7 +18,7 @@ description: Предоставим все источники для удобн�
 
 {% tabs %}
 {% tab title="Последняя версия" %}
-{% embed url="https://github.com/topjohnwu/Magisk/releases/latest" %}
+{% embed url="https://github.com/topjohnwu/Magisk/releases/tag/v25.0" %}
 {% endtab %}
 
 {% tab title="Canary" %}
@@ -30,6 +30,7 @@ description: Предоставим все источники для удобн�
 {% endtab %}
 
 {% tab title="Моментальное скачивание" %}
+* [v25.0](https://github.com/topjohnwu/Magisk/releases/download/v25.0/Magisk-v25.0.apk)
 * [v24.3](https://github.com/topjohnwu/Magisk/releases/download/v24.3/Magisk-v24.3.apk)
 * [v24.2](https://github.com/topjohnwu/Magisk/releases/download/v24.2/Magisk-v24.2.apk)
 * [v24.1](https://github.com/topjohnwu/Magisk/releases/download/v24.1/Magisk-v24.1.apk)

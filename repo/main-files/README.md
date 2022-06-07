@@ -4,7 +4,7 @@ description: >-
   telegram под ваше устройство, GApps и прочее для скачивания.
 ---
 
-# Прошивки, firmware, GApps и прочее
+# Прошивки, firmware, GApps, Magisk и др.
 
 ### MIUI Stock
 
@@ -116,12 +116,12 @@ POCO X3 NFC
 
 <summary>Доступные GApps</summary>
 
-* [NikGapps](https://nikgapps.com) - **рекомендуется**
-* [FlameGapps](https://flamegapps.github.io) - **рекомедуется**
+* [NikGapps](https://nikgapps.com/) - **рекомендуется**
+* [FlameGapps](https://flamegapps.github.io/) - **рекомедуется**
 * ****[WebGapps](https://t.me/WeebGAppsChannel)
-* [OpenGapps](https://opengapps.org)
+* [OpenGapps](https://opengapps.org/)
 * [MindTheGapps](https://androidfilehost.com/?w=files\&flid=322935)
-* [BitGApps](https://bitgapps.github.io)
+* [BitGApps](https://bitgapps.github.io/)
 
 </details>
 
