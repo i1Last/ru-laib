@@ -36,7 +36,7 @@ description: Расскажем, как ориентироваться в TWRP.
 {% tabs %}
 {% tab title="Текст" %}
 * Здесь можно прошивать прошивки, recovery, magisk, дешифраторы и прочее.
-* [Как прошить новое recovery?](../inst/install-other-recovery.md)
+* [Как прошить новое recovery?](../inst/install-recovery-by-twrp.md)
 {% endtab %}
 
 {% tab title="Скриншоты" %}
