@@ -46,7 +46,7 @@ description: >-
 {% endtab %}
 
 {% tab title="Скриншоты" %}
-![Как выглядит режим fastboot на xioami устрайствах](../.gitbook/assets/fastboot-on-xiaomi.png)
+![Как выглядит режим fastboot на xiaomi устрайствах](../.gitbook/assets/fastboot-on-xiaomi.png)
 
 ![Сравнение правильного и неправильного результата команды](https://static.c.realme.com/RU/thread/1536054491584847872.png)
 {% endtab %}
