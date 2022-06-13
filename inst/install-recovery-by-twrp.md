@@ -7,6 +7,10 @@ description: >-
 
 # Установка recovery через TWRP
 
+{% hint style="danger" %}
+<mark style="color:red;">**Автор данной инструкции не несёт ответственности за ваши действия. Все ваши действия выполняются на ваш страх и риск.**</mark>
+{% endhint %}
+
 {% tabs %}
 {% tab title="Текст" %}
 1. Заходим в TWRP

@@ -6,6 +6,10 @@ description: >-
 
 # Удаление magisk модуля в TWRP
 
+{% hint style="danger" %}
+<mark style="color:red;">**Автор данной инструкции не несёт ответственности за ваши действия. Все ваши действия выполняются на ваш страх и риск.**</mark>
+{% endhint %}
+
 ### Шифрование внутреннего хранилища <a href="#esli-vashe-vnutrennee-khranilishe-zashifrovano-to-etot-metod-vam-ne-podoidyot." id="esli-vashe-vnutrennee-khranilishe-zashifrovano-to-etot-metod-vam-ne-podoidyot."></a>
 
 {% hint style="warning" %}

@@ -6,6 +6,10 @@ description: >-
 
 # Размытие в центре управления
 
+{% hint style="danger" %}
+<mark style="color:red;">**Автор данной инструкции не несёт ответственности за ваши действия. Все ваши действия выполняются на ваш страх и риск.**</mark>
+{% endhint %}
+
 ### При открытии центра управления у вас серый фон вместо красивого размытия? Исправим это. <a href="#pri-otkrytii-centra-upravleniya-u-vas-seryi-fon-vmesto-krasivogo-razmytiya-eto-legko-ispravit." id="pri-otkrytii-centra-upravleniya-u-vas-seryi-fon-vmesto-krasivogo-razmytiya-eto-legko-ispravit."></a>
 
 {% tabs %}

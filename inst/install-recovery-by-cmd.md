@@ -6,6 +6,10 @@ description: >-
 
 # Установка recovery через cmd (ПК)
 
+{% hint style="danger" %}
+<mark style="color:red;">**Автор данной инструкции не несёт ответственности за ваши действия. Все ваши действия выполняются на ваш страх и риск.**</mark>
+{% endhint %}
+
 {% tabs %}
 {% tab title="Подготовка" %}
 1. Скачиваем Platform Tools на ПК — [скачать](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)
