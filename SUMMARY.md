@@ -5,6 +5,7 @@
 
 ## 🔹 Самое важное <a href="#imp" id="imp"></a>
 
+* [Базовые знания](imp/base.md)
 * [Как научиться google'ить?](imp/google.md)
 * [От разблокировки, до прошивки](imp/unlock-to-flash.md)
 * [Разблокировка загрузчика](imp/unlock-bootloader.md)
@@ -67,7 +68,7 @@
 
 ## 🗃 Репозиторий <a href="#repo" id="repo"></a>
 
-* [Прошивки, firmware, GApps, Magisk и др.](repo/main-files/README.md)
-  * [Magisk](repo/main-files/magisk.md)
+* [Прошивки, firmware, GApps, Magisk и др.](repo/main-files.md)
+* [Magisk](repo/magisk.md)
 * [TWRP для POCO X3 NFC/PRO](repo/twrp-surya+vayu.md)
 * [Драйвера для ПК](repo/drivers-pc.md)
