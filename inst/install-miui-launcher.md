@@ -11,7 +11,7 @@ description: Расскажем, как с помощью magisk и magisk мо�
 {% endhint %}
 
 {% hint style="info" %}
-<mark style="color:blue;">Полезно знать:</mark> [Как удалить magisk модуль через twrp?](how-del-mg+module-in-twrp.md)
+<mark style="color:blue;">Полезно знать:</mark> [Как удалить magisk модуль через twrp?](bootloop-by-magisk.md)
 {% endhint %}
 
 

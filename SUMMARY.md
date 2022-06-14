@@ -28,6 +28,7 @@
 
 * [ADB без ПК \[LADB\]](inst/adb-without-pc.md)
 * [ADB через ПК](inst/use-adb-with-pc.md)
+* [Bootloop из-за Magisk модуля](inst/bootloop-by-magisk.md)
 * [GCam для POCO X3 NFC / Pro](inst/gcam-surya+vayu.md)
 * [Адаптивные 90гц экрана](inst/ad-90gz.md)
 * [Постоянные 120/90гц экрана \[ROOT\]](inst/con-120hz.md)
@@ -40,7 +41,6 @@
 * [Размытие в центре управления](inst/blur-in-qs.md)
 * [Создание модулей Magisk](inst/create-mg+module.md)
 * [Установка magisk модуля](inst/install-mg-module.md)
-* [Удаление magisk модуля в TWRP](inst/how-del-mg+module-in-twrp.md)
 * [Универсальный автоустановщик recovery](inst/universal-autoinstall-recovery.md)
 * [Установка recovery через cmd (ПК)](inst/install-recovery-by-cmd.md)
 * [Установка recovery через TWRP](inst/install-recovery-by-twrp.md)
