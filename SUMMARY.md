@@ -39,6 +39,8 @@
 * [Отключение рекомендаций в меню недавних](inst/off-rec-in-recent.md)
 * [Работоспособность драйверов на ПК](inst/drivers-on-pc.md)
 * [Размытие в центре управления](inst/blur-in-qs.md)
+* [Смена платежного профиля Google аккаунта](inst/change-pay-profile.md)
+* [Смена региона в Play Store](inst/change-region-ps.md)
 * [Создание модулей Magisk](inst/create-mg+module.md)
 * [Установка magisk модуля](inst/install-mg-module.md)
 * [Универсальный автоустановщик recovery](inst/universal-autoinstall-recovery.md)
