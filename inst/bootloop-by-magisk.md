@@ -29,7 +29,7 @@ description: >-
 
 
 
-## 3. Ручное удаление через TWRP
+## 2. Ручное удаление через TWRP
 
 ### Шифрование внутреннего хранилища <a href="#esli-vashe-vnutrennee-khranilishe-zashifrovano-to-etot-metod-vam-ne-podoidyot." id="esli-vashe-vnutrennee-khranilishe-zashifrovano-to-etot-metod-vam-ne-podoidyot."></a>
 
