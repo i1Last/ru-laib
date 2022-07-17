@@ -21,7 +21,7 @@ description: Расскажем о самом крутом способе поч
 
 ### **2. Скачиваем и устанавливаем модуль «Universal SafetyNet Fix»**
 
-{% embed url="https://github.com/kdrag0n/safetynet-fix/releases/tag/v2.2.1" %}
+{% embed url="https://github.com/kdrag0n/safetynet-fix/releases/tag/v2.3.1" %}
 [Как установить модуль magisk?](../../inst/install-mg-module.md)
 {% endembed %}
 
